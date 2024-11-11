@@ -18,8 +18,7 @@ The Template can be used out of the box for any type of website/webapp
   <img src="https://raw.githubusercontent.com/mymi14s/mymi14s.github.io/master/login_with_social_button.png" width="250"/>
   <img src="https://raw.githubusercontent.com/mymi14s/mymi14s.github.io/master/Signup.png" width="250"/>
   <br><img src="https://raw.githubusercontent.com/mymi14s/mymi14s.github.io/master/home.png"/>
-  <br><img src="https://raw.githubusercontent.com/mymi14s/mymi14s.github.io/master/profile.png"/>
-  <br><img src="https://raw.githubusercontent.com/mymi14s/mymi14s.github.io/master/admin.png"/>
+    <br><img src="https://raw.githubusercontent.com/mymi14s/mymi14s.github.io/master/admin.png"/>
 </ul>
 </font>
 
